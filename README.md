@@ -3,9 +3,9 @@ Hi, I am John Rysal C. Rosel. I create designs and develop applications as it le
 I really enjoy learning new things and I would love to collaborate with you.
 
 ## Skills
-• Python
-• Java
-• HTML, CSS, JS
+* Python
+* Java
+* HTML, CSS, JS
 
 ## Some of my Works
 
