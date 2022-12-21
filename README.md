@@ -1,5 +1,5 @@
 # Rysal Rosel
-Hi, I am John Rysal C. Rosel. I create designs and develop applications as it lets me expand my creativeness.
+Hi, I am John Rysal C. Rosel. I create designs and develop applications as it lets me expand my creativity.
 I really enjoy learning new things and I would love to collaborate with you.
 
 ## Skills
